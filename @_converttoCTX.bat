@@ -1,0 +1,1 @@
+for %%a in (*.cim) do cimedit /converttoctx "%%a"
